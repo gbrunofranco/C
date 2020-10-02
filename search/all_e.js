@@ -8,7 +8,7 @@ var searchData=
   ['length_178',['length',['../dd/d06/structsegment__tree.html#a5ad61abcbd2c25a4a71416281dba8f1e',1,'segment_tree']]],
   ['lims_179',['LIMS',['../d7/d50/qr__eigen__values_8c.html#aee57a411f07599034f5ceb8cc7d65b40',1,'qr_eigen_values.c']]],
   ['llink_180',['llink',['../db/d8b/struct_node.html#a60b73f452505cef98795d2c8de3e72ef',1,'Node']]],
-  ['longestpalindrome_181',['longestPalindrome',['../d1/df3/5_8c.html#ac73cfda8a63a36490341e8b8852530bc',1,'5.c']]],
+  ['longestpalindrome_181',['longestPalindrome',['../d1/df3/5_8c.html#ac73cfda8a63a36490341e8b8852530bc',1,'longestPalindrome(char *inputString):&#160;5.c'],['../df/d6c/src_25_8c.html#ac73cfda8a63a36490341e8b8852530bc',1,'longestPalindrome(char *inputString):&#160;5.c']]],
   ['lu_5fdecompose_2ec_182',['lu_decompose.c',['../dc/d2e/lu__decompose_8c.html',1,'']]],
   ['lu_5fdecomposition_183',['lu_decomposition',['../dc/d2e/lu__decompose_8c.html#aae40b90a8efd645c749128cf8072bbb4',1,'lu_decompose.c']]],
   ['list_20of_20all_20files_184',['List of all files',['../d5/d88/md__d_i_r_e_c_t_o_r_y.html',1,'']]],
