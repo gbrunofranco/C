@@ -110,9 +110,9 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d4/dea/problem__14_2sol1_8c.html#a81c1df5c17cb16bcc16e346fcff6fa80",
-"d8/db8/structkohonen__array__3d.html#a16720581653fa9a34d1029e7229a7377",
-"df/d16/palindrome_8c.html"
+"d4/de3/hash__djb2_8c.html",
+"d8/d81/md_project_euler__r_e_a_d_m_e.html",
+"de/dce/structmin__heap.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
